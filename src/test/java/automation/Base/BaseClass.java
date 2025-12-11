@@ -25,6 +25,7 @@ public class BaseClass {
     // >>> Add your page objects here <<<
     protected RegisterPage registerPage;
 
+
     @BeforeMethod
     public void setup() {
 
