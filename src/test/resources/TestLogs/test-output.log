@@ -1,0 +1,336 @@
+2025-12-04 09:42:22,132 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 09:42:25,660 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 09:42:25,744 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 09:42:25,756 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 09:42:27,066 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 09:42:27,067 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 09:42:30,510 [main] INFO  LoggerUtils:10 - New User register begins
+2025-12-04 09:42:30,722 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:30,921 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:31,112 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:31,284 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:31,464 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:31,641 [main] INFO  LoggerUtils:10 - Element with text entered
+2025-12-04 09:42:32,093 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 09:42:35,094 [main] INFO  LoggerUtils:10 - New User register completed
+2025-12-04 09:42:35,291 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 09:43:20,877 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 09:43:22,980 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 09:43:23,048 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 09:43:23,059 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 09:43:24,258 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 09:43:24,261 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 09:43:27,576 [main] INFO  LoggerUtils:10 - New User register begins
+2025-12-04 09:43:27,795 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> name: firstname]
+2025-12-04 09:43:27,981 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> id: input-lastname]
+2025-12-04 09:43:28,189 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> name: email]
+2025-12-04 09:43:28,382 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> name: telephone]
+2025-12-04 09:43:28,592 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> name: password]
+2025-12-04 09:43:28,754 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (694a5b999eb4d2843d10fa8f6131d825)] -> name: confirm]
+2025-12-04 09:43:29,202 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 09:43:32,204 [main] INFO  LoggerUtils:10 - New User register completed
+2025-12-04 09:43:32,416 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 09:53:16,361 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 09:53:18,429 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 09:53:18,499 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 09:53:18,512 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 09:53:19,862 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 09:53:19,863 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 09:53:23,166 [main] INFO  LoggerUtils:10 - New User register begins
+2025-12-04 09:53:23,405 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> name: firstname]
+2025-12-04 09:53:23,592 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> id: input-lastname]
+2025-12-04 09:53:23,802 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> name: email]
+2025-12-04 09:53:23,991 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> name: telephone]
+2025-12-04 09:53:24,208 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> name: password]
+2025-12-04 09:53:24,374 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (5712c5880532281828be3b0d376f2cae)] -> name: confirm]
+2025-12-04 09:53:24,787 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 09:53:27,795 [main] INFO  LoggerUtils:10 - New User register completed
+2025-12-04 09:53:27,825 [main] ERROR LoggerUtils:14 - register not complete
+2025-12-04 09:53:28,044 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 09:54:25,793 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 09:54:27,854 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 09:54:27,945 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 09:54:27,951 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 09:54:29,179 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 09:54:29,179 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 09:54:32,528 [main] INFO  LoggerUtils:10 - New User register begins
+2025-12-04 09:54:32,735 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> name: firstname]
+2025-12-04 09:54:32,963 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> id: input-lastname]
+2025-12-04 09:54:33,183 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> name: email]
+2025-12-04 09:54:33,351 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> name: telephone]
+2025-12-04 09:54:33,529 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> name: password]
+2025-12-04 09:54:33,701 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ce401ae24fa29adb7e0582ba2be9bfb2)] -> name: confirm]
+2025-12-04 09:54:34,084 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 09:54:37,116 [main] ERROR LoggerUtils:14 - register not complete
+2025-12-04 09:54:37,328 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 09:57:52,743 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 09:57:54,895 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 09:57:54,998 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 09:57:55,008 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 09:57:56,361 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 09:57:56,362 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 09:57:59,694 [main] INFO  LoggerUtils:10 - New User register begins
+2025-12-04 09:57:59,938 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> name: firstname]
+2025-12-04 09:58:00,122 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> id: input-lastname]
+2025-12-04 09:58:00,345 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> name: email]
+2025-12-04 09:58:00,541 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> name: telephone]
+2025-12-04 09:58:00,722 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> name: password]
+2025-12-04 09:58:00,911 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (18a63f8852192d3cb443189016fb9316)] -> name: confirm]
+2025-12-04 09:58:02,323 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 09:58:05,354 [main] ERROR LoggerUtils:14 - register not complete
+2025-12-04 09:58:05,582 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 10:00:06,230 [main] INFO  LoggerUtils:10 - The browser is:chrome
+2025-12-04 10:00:08,263 [main] INFO  LoggerUtils:10 - The chrome browser is initialised
+2025-12-04 10:00:08,362 [main] INFO  LoggerUtils:10 - The window maximized
+2025-12-04 10:00:08,376 [main] INFO  LoggerUtils:10 - The implicit wait is applied
+2025-12-04 10:00:09,772 [main] INFO  LoggerUtils:10 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 10:00:09,772 [main] INFO  LoggerUtils:10 - page initialised
+2025-12-04 10:00:13,081 [main] INFO  RegisterPage:50 - New User register begins
+2025-12-04 10:00:13,315 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> name: firstname]
+2025-12-04 10:00:13,498 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> id: input-lastname]
+2025-12-04 10:00:13,700 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> name: email]
+2025-12-04 10:00:13,867 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> name: telephone]
+2025-12-04 10:00:14,042 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> name: password]
+2025-12-04 10:00:14,230 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (042dbe8d52e294aee1442182f6a630c0)] -> name: confirm]
+2025-12-04 10:00:14,638 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 10:00:17,671 [main] ERROR RegisterPage:66 - register not complete
+2025-12-04 10:00:17,896 [main] INFO  LoggerUtils:10 - Browser closed
+2025-12-04 10:03:44,347 [main] INFO  BaseClass:29 - The browser is:chrome
+2025-12-04 10:03:46,474 [main] INFO  BaseClass:34 - The chrome browser is initialised
+2025-12-04 10:03:46,544 [main] INFO  BaseClass:62 - The window maximized
+2025-12-04 10:03:46,551 [main] INFO  BaseClass:65 - The implicit wait is applied
+2025-12-04 10:03:47,937 [main] INFO  BaseClass:68 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-04 10:03:47,939 [main] INFO  BaseClass:72 - page initialised
+2025-12-04 10:03:51,288 [main] INFO  RegisterPage:50 - New User register begins
+2025-12-04 10:03:51,546 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> name: firstname]
+2025-12-04 10:03:51,737 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> id: input-lastname]
+2025-12-04 10:03:51,999 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> name: email]
+2025-12-04 10:03:52,170 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> name: telephone]
+2025-12-04 10:03:52,365 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> name: password]
+2025-12-04 10:03:52,535 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (f9068eabda6bfa534f684346d4b56268)] -> name: confirm]
+2025-12-04 10:03:52,959 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-04 10:03:55,995 [main] ERROR RegisterPage:66 - register not complete
+2025-12-04 10:03:56,223 [main] INFO  BaseClass:81 - Browser closed
+2025-12-09 09:18:58,261 [main] INFO  BaseClass:29 - The browser is:chrome
+2025-12-09 09:19:01,598 [main] INFO  BaseClass:34 - The chrome browser is initialised
+2025-12-09 09:19:01,670 [main] INFO  BaseClass:62 - The window maximized
+2025-12-09 09:19:01,678 [main] INFO  BaseClass:65 - The implicit wait is applied
+2025-12-09 09:19:02,883 [main] INFO  BaseClass:68 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-09 09:19:02,884 [main] INFO  BaseClass:72 - page initialised
+2025-12-09 09:19:06,319 [main] INFO  RegisterPage:50 - New User register begins
+2025-12-09 09:19:06,573 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> name: firstname]
+2025-12-09 09:19:06,763 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> id: input-lastname]
+2025-12-09 09:19:06,986 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> name: email]
+2025-12-09 09:19:07,178 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> name: telephone]
+2025-12-09 09:19:07,414 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> name: password]
+2025-12-09 09:19:07,624 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (617530b6f5783d4a46bee11cb1d09f9c)] -> name: confirm]
+2025-12-09 09:19:08,045 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-09 09:19:11,088 [main] ERROR RegisterPage:66 - register not complete
+2025-12-09 09:19:11,513 [main] INFO  BaseClass:81 - Browser closed
+2025-12-09 10:05:10,019 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-09 10:05:12,123 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-09 10:05:12,215 [main] INFO  BaseClass:65 - The window maximized
+2025-12-09 10:05:12,222 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-09 10:05:13,554 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-09 10:05:13,556 [main] INFO  BaseClass:75 - page initialised
+2025-12-09 10:05:17,181 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-09 10:05:17,404 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> name: firstname]
+2025-12-09 10:05:17,613 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> id: input-lastname]
+2025-12-09 10:05:17,841 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> name: email]
+2025-12-09 10:05:18,031 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> name: telephone]
+2025-12-09 10:05:18,229 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> name: password]
+2025-12-09 10:05:18,419 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (ece431b588459bcfdf07c887280ac43b)] -> name: confirm]
+2025-12-09 10:05:18,873 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-09 10:05:21,915 [main] ERROR RegisterPage:72 - register not complete
+2025-12-09 10:05:22,942 [main] INFO  BaseClass:89 - Browser closed
+2025-12-09 10:10:31,590 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-09 10:10:33,502 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-09 10:10:33,603 [main] INFO  BaseClass:65 - The window maximized
+2025-12-09 10:10:33,612 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-09 10:10:34,841 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-09 10:10:34,844 [main] INFO  BaseClass:75 - page initialised
+2025-12-09 10:10:38,468 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-09 10:10:38,736 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> name: firstname]
+2025-12-09 10:10:38,955 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> id: input-lastname]
+2025-12-09 10:10:39,171 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> name: email]
+2025-12-09 10:10:39,383 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> name: telephone]
+2025-12-09 10:10:39,625 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> name: password]
+2025-12-09 10:10:39,846 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (0422f6f5ec12972cff7481e223d78ff6)] -> name: confirm]
+2025-12-09 10:10:40,296 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-09 10:10:43,340 [main] ERROR RegisterPage:72 - register not complete
+2025-12-09 10:10:44,266 [main] INFO  BaseClass:89 - Browser closed
+2025-12-09 10:11:34,824 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-09 10:11:36,832 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-09 10:11:36,920 [main] INFO  BaseClass:65 - The window maximized
+2025-12-09 10:11:36,929 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-09 10:11:38,045 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-09 10:11:38,048 [main] INFO  BaseClass:75 - page initialised
+2025-12-09 10:11:41,677 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-09 10:11:41,948 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> name: firstname]
+2025-12-09 10:11:42,152 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> id: input-lastname]
+2025-12-09 10:11:42,573 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> name: email]
+2025-12-09 10:11:42,782 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> name: telephone]
+2025-12-09 10:11:42,978 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> name: password]
+2025-12-09 10:11:43,176 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4476eda0edcde6719263cce692c5f048)] -> name: confirm]
+2025-12-09 10:11:43,629 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-09 10:11:46,674 [main] ERROR RegisterPage:73 - register not complete
+2025-12-09 10:11:47,479 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 08:40:41,823 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 08:40:45,314 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 08:40:45,361 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 08:40:45,372 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 08:40:46,656 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 08:40:46,666 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 08:40:50,313 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-11 08:40:50,620 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> name: firstname]
+2025-12-11 08:40:50,830 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> id: input-lastname]
+2025-12-11 08:40:51,275 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> name: email]
+2025-12-11 08:40:51,459 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> name: telephone]
+2025-12-11 08:40:51,633 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> name: password]
+2025-12-11 08:40:51,808 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8ea8ab9cf050c374f69cd630223fa6b1)] -> name: confirm]
+2025-12-11 08:40:52,193 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 08:40:55,235 [main] ERROR RegisterPage:77 - register not complete
+2025-12-11 08:40:56,071 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 08:58:32,451 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 08:58:34,258 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 08:58:34,299 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 08:58:34,310 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 08:58:39,601 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 08:58:39,601 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 08:58:43,178 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-11 08:58:43,437 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> name: firstname]
+2025-12-11 08:58:43,659 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> id: input-lastname]
+2025-12-11 08:58:44,090 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> name: email]
+2025-12-11 08:58:44,314 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> name: telephone]
+2025-12-11 08:58:44,500 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> name: password]
+2025-12-11 08:58:44,673 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (9e3a6a469429d594db12927cf2f2530a)] -> name: confirm]
+2025-12-11 08:58:45,079 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 08:58:48,111 [main] ERROR RegisterPage:77 - register not complete
+2025-12-11 08:58:49,374 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:09:38,946 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:09:41,292 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:09:41,369 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:09:41,377 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:09:45,512 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:09:45,513 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:09:49,079 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-11 09:09:49,305 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> name: firstname]
+2025-12-11 09:09:49,478 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> id: input-lastname]
+2025-12-11 09:09:49,900 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> name: email]
+2025-12-11 09:09:50,072 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> name: telephone]
+2025-12-11 09:09:50,244 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> name: password]
+2025-12-11 09:09:50,398 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (4df11dd3999ddb2d31f0fa6e1ce6c74e)] -> name: confirm]
+2025-12-11 09:09:50,824 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 09:09:53,858 [main] ERROR RegisterPage:77 - register not complete
+2025-12-11 09:09:54,728 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:11:14,932 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:11:17,067 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:11:17,139 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:11:17,149 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:11:18,441 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:11:18,443 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:11:22,027 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-11 09:11:22,263 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> name: firstname]
+2025-12-11 09:11:22,457 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> id: input-lastname]
+2025-12-11 09:11:22,865 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> name: email]
+2025-12-11 09:11:23,035 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> name: telephone]
+2025-12-11 09:11:23,213 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> name: password]
+2025-12-11 09:11:23,394 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (b5010917043dd8045bf524e8b18d9923)] -> name: confirm]
+2025-12-11 09:11:23,840 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 09:11:26,887 [main] ERROR RegisterPage:77 - register not complete
+2025-12-11 09:11:27,588 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:24:21,172 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:28:54,520 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:28:56,745 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:28:56,831 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:28:56,837 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:28:59,205 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:28:59,207 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:28:59,815 [main] INFO  LoggerUtils:10 - Test Started:newUserOnboarding
+2025-12-11 09:29:02,821 [main] INFO  RegisterPage:54 - New User register begins
+2025-12-11 09:29:03,063 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> name: firstname]
+2025-12-11 09:29:03,265 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> id: input-lastname]
+2025-12-11 09:29:03,694 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> name: email]
+2025-12-11 09:29:03,864 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> name: telephone]
+2025-12-11 09:29:04,067 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> name: password]
+2025-12-11 09:29:04,231 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (8716a1fb6d7c2dffde33079948b85c44)] -> name: confirm]
+2025-12-11 09:29:04,665 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 09:29:07,708 [main] ERROR RegisterPage:78 - register not complete
+2025-12-11 09:29:07,711 [main] INFO  LoggerUtils:10 - Test Success:newUserOnboarding
+2025-12-11 09:29:08,415 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:33:38,496 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:33:40,619 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:33:40,699 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:33:40,712 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:33:44,840 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:33:44,842 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:33:45,545 [main] INFO  LoggerUtils:10 - Test Started:newUserOnboarding
+2025-12-11 09:33:48,549 [main] INFO  RegisterPage:56 - New User register begins
+2025-12-11 09:33:48,777 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> name: firstname]
+2025-12-11 09:33:48,971 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> id: input-lastname]
+2025-12-11 09:33:49,425 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> name: email]
+2025-12-11 09:33:49,605 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> name: telephone]
+2025-12-11 09:33:49,773 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> name: password]
+2025-12-11 09:33:49,941 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (05d58a7bbd50f8992800a67405ee9674)] -> name: confirm]
+2025-12-11 09:33:50,375 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 09:33:53,412 [main] ERROR RegisterPage:80 - register not complete
+2025-12-11 09:33:53,416 [main] INFO  LoggerUtils:10 - Test Success:newUserOnboarding
+2025-12-11 09:33:54,142 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:33:54,143 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:33:55,537 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:33:55,632 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:33:55,636 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:33:56,847 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:33:56,848 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:33:56,851 [main] INFO  LoggerUtils:10 - Test Started:userLogin
+2025-12-11 09:33:56,851 [main] INFO  RegisterPage:91 - User login
+2025-12-11 09:34:16,960 [main] INFO  LoggerUtils:10 - Test Failure:userLogin
+2025-12-11 09:34:17,206 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:44:42,553 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:44:46,311 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:44:46,407 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:44:46,417 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:44:50,246 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:44:50,248 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:44:50,938 [main] INFO  LoggerUtils:10 - Test Started:newUserOnboarding
+2025-12-11 09:44:53,955 [main] INFO  RegisterPage:56 - New User register begins
+2025-12-11 09:44:54,198 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> name: firstname]
+2025-12-11 09:44:54,381 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> id: input-lastname]
+2025-12-11 09:44:54,778 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> name: email]
+2025-12-11 09:44:54,959 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> name: telephone]
+2025-12-11 09:44:55,129 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> name: password]
+2025-12-11 09:44:55,295 [main] INFO  LoggerUtils:10 - Element with text entered[[ChromeDriver: chrome on windows (7d5f6a10269a3fb2113cf28fb6c1f025)] -> name: confirm]
+2025-12-11 09:44:55,744 [main] INFO  LoggerUtils:10 - Element clicked
+2025-12-11 09:44:58,774 [main] ERROR RegisterPage:80 - register not complete
+2025-12-11 09:44:58,778 [main] INFO  LoggerUtils:10 - Test Success:newUserOnboarding
+2025-12-11 09:44:59,475 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:44:59,478 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:45:00,817 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:45:00,904 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:45:00,909 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:45:02,481 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:45:02,481 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:45:02,485 [main] INFO  LoggerUtils:10 - Test Started:userLogin
+2025-12-11 09:45:02,485 [main] INFO  RegisterPage:91 - User login
+2025-12-11 09:45:22,606 [main] INFO  LoggerUtils:10 - Test Skipped:userLogin
+2025-12-11 09:45:22,841 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:45:22,843 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:45:24,103 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:45:24,176 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:45:24,179 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:45:25,483 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:45:25,483 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:45:25,486 [main] INFO  LoggerUtils:10 - Test Started:userLogin
+2025-12-11 09:45:25,488 [main] INFO  RegisterPage:91 - User login
+2025-12-11 09:45:45,547 [main] INFO  LoggerUtils:10 - Test Skipped:userLogin
+2025-12-11 09:45:45,850 [main] INFO  BaseClass:89 - Browser closed
+2025-12-11 09:45:45,852 [main] INFO  BaseClass:32 - The browser is:chrome
+2025-12-11 09:45:47,192 [main] INFO  BaseClass:37 - The chrome browser is initialised
+2025-12-11 09:45:47,257 [main] INFO  BaseClass:65 - The window maximized
+2025-12-11 09:45:47,261 [main] INFO  BaseClass:68 - The implicit wait is applied
+2025-12-11 09:45:49,138 [main] INFO  BaseClass:71 - The url launched is:https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2025-12-11 09:45:49,139 [main] INFO  BaseClass:75 - page initialised
+2025-12-11 09:45:49,141 [main] INFO  LoggerUtils:10 - Test Started:userLogin
+2025-12-11 09:45:49,141 [main] INFO  RegisterPage:91 - User login
+2025-12-11 09:46:09,264 [main] INFO  LoggerUtils:10 - Test Failure:userLogin
+2025-12-11 09:46:09,542 [main] INFO  BaseClass:89 - Browser closed
