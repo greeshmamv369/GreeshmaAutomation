@@ -8,4 +8,9 @@ public class LoginTests {
 {
 System.out.println("test");
 }
+    @Test
+    public void loginUser1()
+    {
+        System.out.println("test1");
+    }
 }
