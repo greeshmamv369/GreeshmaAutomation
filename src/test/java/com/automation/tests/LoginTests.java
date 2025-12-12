@@ -7,6 +7,9 @@ public class LoginTests {
     public void loginUser()
 {
 System.out.println("test");
+    System.out.println("test");
+
+
 }
     @Test
     public void loginUser1()
